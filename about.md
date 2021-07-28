@@ -1,7 +1,7 @@
----
+--- 
 layout: page
-title: "about"
+title: about
 permalink: /about/
----
+--- 
 
 This is a test about page 
